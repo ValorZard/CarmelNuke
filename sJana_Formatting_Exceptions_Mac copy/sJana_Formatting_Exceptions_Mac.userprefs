@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sJana_Formatting_Exceptions_Mac/Food.cs">
+    <Files>
+      <File FileName="sJana_Formatting_Exceptions_Mac/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="sJana_Formatting_Exceptions_Mac/MainWindow.cs" Line="33" Column="4" />
+      <File FileName="sJana_Formatting_Exceptions_Mac/MainWindowController.cs" Line="1" Column="1" />
+      <File FileName="sJana_Formatting_Exceptions_Mac/MainWindow.designer.cs" Line="1" Column="1" />
+      <File FileName="sJana_Formatting_Exceptions_Mac/Food.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

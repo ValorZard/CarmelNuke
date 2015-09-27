@@ -1,0 +1,9 @@
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/ibtool-manifests/MainWindow.nib
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/ibtool-manifests/MainMenu.nib
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/ibtool/MainMenu.nib
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/ibtool/MainWindow.nib
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/bin/Debug/sJana_Formatting_Exceptions_Mac.exe.mdb
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/bin/Debug/sJana_Formatting_Exceptions_Mac.exe
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/sJana_Formatting_Exceptions_Mac.exe
+/Users/brinda/Projects/sJana_Formatting_Exceptions_Mac/sJana_Formatting_Exceptions_Mac/obj/Debug/sJana_Formatting_Exceptions_Mac.exe.mdb
